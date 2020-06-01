@@ -1,1 +1,4 @@
-# beamer-sample
+
+* Beamer Presentations in Org Mode
+
+This repository contains a sample presentation with presentation notes, both using the same contents file.
