@@ -1,0 +1,17 @@
+#+startup: beamer
+#+STARTUP: showall
+#+OPTIONS: H:3
+#+LaTeX_CLASS: beamer
+#+BEAMER_THEME: white
+#+LaTeX_CLASS_options: [aspectratio=169,12pt,ignorenonframetext]
+#+LATEX_HEADER: \usepackage{fancyvrb}
+#+BEAMER_HEADER: \institute[OBU]{Oklahoma Baptist University}
+#+OPTIONS: toc:nil
+
+*** 
+\maketitle
+
+*** 
+\tableofcontents
+
+
