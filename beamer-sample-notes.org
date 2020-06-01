@@ -24,6 +24,6 @@
 #+LaTeX_HEADER: \usepackage[T1]{fontenc}
 #+OPTIONS: toc:nil
 
-
+\maketitle
 
 #+include: "beamer-sample.org" :minlevel 1
