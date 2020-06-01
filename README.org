@@ -1,4 +1,13 @@
 
 * Beamer Presentations in Org Mode
 
-This repository contains a sample presentation with presentation notes, both using the same contents file.
+This repository contains a sample presentation with presentation notes, both using the same contents file. Here are the included files:
+
+1. lecture.fish: function that creates the three org mode files.
+2. lecture-beamer.org: Beamer heading material used by lecture.fish to create the Beamer org file.
+3. lecture-notes.org: LaTeX heading material used by lecture.fish to create the notes org file.
+4. beamer-sample.org: the shared contents file.
+5. beamer-sample-beamer.org: the org file, that when exported, produces the presentation PDF.
+6. beamer-sample-notes-file: the org file, that when exported, produces the notes PDF.
+7. beamer-sample-beamer.pdf: the presentation PDF.
+8. beamer-sample-notes.pdf: the notes PDF.
