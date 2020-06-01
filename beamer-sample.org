@@ -1,0 +1,4 @@
+#+startup: beamer 
+#+TITLE:  
+#+AUTHOR: Dr. Ridenour 
+#+DATE: 

@@ -1,0 +1,29 @@
+#+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [11pt]
+#+LaTeX_HEADER: \usepackage{beamerarticle}
+#+LaTeX_HEADER: \usepackage{amssymb}
+#+LaTeX_HEADER: \usepackage{url}
+#+LaTeX_HEADER: \usepackage[normalem]{ulem}
+#+LaTeX_HEADER: \usepackage{microtype}
+#+LaTeX_HEADER: \usepackage[american]{babel}
+#+LaTeX_HEADER: \usepackage[letterpaper,centering]{geometry}
+#+LaTeX_HEADER: \usepackage[sf,sc]{titlesec}
+#+LaTeX_HEADER: \usepackage[parfill]{parskip} % Line between paragraphs
+#+LaTeX_HEADER: \usepackage[authordate,url=false,isbn=false,backend=biber]{biblatex-chicago} %Change authordate to notes if desired.
+#+LaTeX_HEADER: \addbibresource{/Users/rlridenour/zotero.bib}
+#+LaTeX_HEADER: \clubpenalty = 10000 % Reduce orphans and widows
+#+LaTeX_HEADER: \widowpenalty = 10000
+#+LaTeX_HEADER: 
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist[itemize]{noitemsep} % Comment out for wider separation in lists.
+#+LaTeX_HEADER: \setlist[enumerate]{noitemsep}
+#+LaTeX_HEADER: 
+#+LaTeX_HEADER: \usepackage{libertine}
+#+LaTeX_HEADER: \usepackage[libertine]{newtxmath}
+#+LaTeX_HEADER: \usepackage[scaled=0.96]{zi4}
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+OPTIONS: toc:nil
+
+
+
+#+include: "beamer-sample.org" :minlevel 1
